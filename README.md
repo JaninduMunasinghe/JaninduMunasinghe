@@ -2,7 +2,7 @@
 - 👀 I’m interested in develop software and web application
 - 🌱 I’m currently learning at SLIIT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at janinduravishka1999@gmail.com
 
 <!---
 JaninduMunasinghe/JaninduMunasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
