@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaninduMunasinghe
-- 👀 I’m interested in develop software and web application
-- 🌱 I’m currently learning at SLIIT
+- 👀 I’m interested in developing software and web application
+- 🌱 I’m currently undergraduate at SLIIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at janinduravishka1999@gmail.com
 
