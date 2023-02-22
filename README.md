@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janindu Munasinghe</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janindumunasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="janindumunasinghe" /> </p>
 
 - 🔭 I’m interested in **developing software and web application**
