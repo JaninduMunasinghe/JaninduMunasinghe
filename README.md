@@ -4,7 +4,8 @@
 * 🎓 undergraduate at SLIIT
 * ⚡ looking forward to creating a career in web & software development.
 * 👨🏻‍💻 currently learning everything 😅
-* ✨ Fun fact: I am funny 🎸
+* ✨ Fun fact: I am funny
+
 
 
 ## Connect with me  
@@ -66,6 +67,6 @@
 
 <br/>  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethvish&show_icons=true&locale=en" alt="nethvish" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JaninduMunasinghe&show_icons=true&locale=en" alt="JaninduMunasinghe" /></p>
 
 
