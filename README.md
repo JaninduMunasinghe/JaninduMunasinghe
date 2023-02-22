@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/janindu munasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janindu munasinghe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/janindu-munasinghe-a86b64215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="janindu-munasinghe-a86b64215" height="30" width="40" /></a>
 <a href="https://fb.com/janindu.munasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janindu.munasinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/janindumunasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janindumunasinghe" height="30" width="40" /></a>
 </p>
