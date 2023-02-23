@@ -1,5 +1,6 @@
 # 💫 About Me:
 👨‍🎓 I'm currently undergraduate at SLIIT<br>⚡️looking forward to creating a career in web & software development<br>👨🏻‍💻currently learning everything 😅<br>✨Fun fact: I'm funny
+<img align="right" alt="coding" width="400" top=1px src="https://github.com/JaninduMunasinghe/JaninduMunasinghe/blob/main/giphy.gif">
 
 
 ## 🌐 Socials:
